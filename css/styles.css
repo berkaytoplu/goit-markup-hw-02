@@ -1,12 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-font-family: 'Roboto', sans-serif;
+font-family: 'Roboto', Raleway, sans-serif;
 color: #2E2F42;
 font-size: 16px;
 line-height: 1.5;
 }
+
 .order-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
   background-color: #4D5AE6;
   color: #FFFFFF;
   cursor: pointer;
@@ -15,14 +19,33 @@ line-height: 1.5;
 .order-button:hover {
 background-color:#404BBF;
 }
+
+.sections-style {
+  background-color:#F4F4FD;
+}
+
+.logo {
+ font-family: 'Roboto', Raleway, sans-serif;
+ font-weight: 400;
+ line-height: 1.5;
+}
+
 .web {
   color: #4D5AE6;
 }
 
+.studio {
+  color: #2E2F42;
+}
+
+.studio2 {
+  color: #F4F4FD;
+}
 
 .nav-link {
   color: #2E2F42;
 }
+
 .nav-link:hover {
   color: #404BBF;
 }
@@ -34,10 +57,6 @@ background-color:#404BBF;
 
 .adress-link:hover {
   color:#404BBF;
-}
-
-.studio {
-  color: #2E2F42;
 }
 
 .logo {
@@ -55,6 +74,24 @@ h1 {
 
 }
 
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  color: #2E2F42;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #2E2F42;
+}
+
 .hero {
   background-color: #2e2f42;
+}
+
+.footer-style {
+  background-color: #2E2F42;
 }
