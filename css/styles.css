@@ -1,53 +1,53 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-font-family: 'Roboto', Raleway, sans-serif;
-color: #2E2F42;
-font-size: 16px;
-line-height: 1.5;
+  font-family: 'Roboto', Raleway, sans-serif;
+  color: #2e2f42;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .order-button {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  background-color: #4D5AE6;
-  color: #FFFFFF;
+  background-color: #4d5ae6;
+  color: #ffffff;
   cursor: pointer;
 }
 
 .order-button:hover {
-background-color:#404BBF;
+  background-color: #404bbf;
 }
 
 .sections-style {
-  background-color:#F4F4FD;
+  background-color: #f4f4fd;
 }
 
 .logo {
- font-family: 'Roboto', Raleway, sans-serif;
- font-weight: 400;
- line-height: 1.5;
+  font-family: 'Roboto', Raleway, sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
 }
 
 .web {
-  color: #4D5AE6;
+  color: #4d5ae6;
 }
 
 .studio {
-  color: #2E2F42;
+  color: #2e2f42;
 }
 
 .studio2 {
-  color: #F4F4FD;
+  color: #f4f4fd;
 }
 
 .nav-link {
-  color: #2E2F42;
+  color: #2e2f42;
 }
 
 .nav-link:hover {
-  color: #404BBF;
+  color: #404bbf;
 }
 
 .adress-link {
@@ -56,7 +56,7 @@ background-color:#404BBF;
 }
 
 .adress-link:hover {
-  color:#404BBF;
+  color: #404bbf;
 }
 
 .logo {
@@ -70,22 +70,21 @@ a {
 h1 {
   font-size: 56px;
   line-height: 1.07;
-  color: #FFFFFF;
-
+  color: #ffffff;
 }
 
 h2 {
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
-  color: #2E2F42;
+  color: #2e2f42;
 }
 
 h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
-  color: #2E2F42;
+  color: #2e2f42;
 }
 
 .hero {
@@ -93,5 +92,5 @@ h3 {
 }
 
 .footer-style {
-  background-color: #2E2F42;
+  background-color: #2e2f42;
 }
