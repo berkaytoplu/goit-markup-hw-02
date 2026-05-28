@@ -27,8 +27,8 @@ body {
 
 .logo {
   font-family: 'Raleway', sans-serif;
-  font-weight: 400;
-  line-height: 1.5;
+  font-weight: 700;
+  line-height: 1.166;
 }
 
 .web {
@@ -58,13 +58,6 @@ body {
 
 .adress-link:hover {
   color: #404bbf;
-}
-
-.logo {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 1.5;
-  font-family: 'Raleway', sans-serif;
 }
 
 a {
